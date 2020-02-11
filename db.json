@@ -1,28 +1,28 @@
 {
-  "dinos": [
+  "pictures": [
     {
       "id": 1,
-      "title": "T-Rex",
-      "scary": true,
-      "armLength": "10 cm"
+      "category": "NATURE",
+      "color": true,
+      "price": "100$"
     },
     {
       "id": 2,
-      "title": "Diplodocus",
-      "scary": false,
-      "armLength": "20 m"
+      "category": "ART",
+      "color": false,
+      "price": "200$"
     },
     {
       "id": 3,
-      "title": "Bracchiosaurus",
-      "scary": false,
-      "armLength": "10 m"
+      "category": "FOOD",
+      "color": true,
+      "price": "300$"
     },
     {
       "id": 4,
-      "title": "Triceratops",
-      "scary": false,
-      "armLength": "6 m"
+      "category": "PEOPLE",
+      "color": false,
+      "price": "400$"
     }
   ]
 }
